@@ -1,10 +1,10 @@
 <div align="center">
-  <!-- GIF Ajustado e Centralizado (Tamanho Fixo e Sutil) -->
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyYzg1cHFnY3Z4ZWN3dHcyaGxka3d5OWp6ZXVrM3Fhb28xcXVtbjcxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12va1PkLHzeLBK/200.gif" width="250px" alt="Initial D Pixel Art" style="border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin-bottom: 20px;" />
+  <!-- GIF Takumi Fujiwara (Ajustado) -->
+  <img src="https://media.tenor.com/YK5LN4Dj3LUAAAAM/takumi-fujiwara-takumi.gif" width="100%" style="max-width: 500px; border-radius: 8px;" alt="Takumi Fujiwara - Initial D" />
 
   <h1>Olá, me chamo Lucas Domiciano 👋</h1>
 
-  <p><i>"Assim como uma volta bem executada no touge, cada projeto de dados é uma oportunidade de lapidar a precisão e diminuir o tempo de resposta."*</i></p>
+  <p><i>"Assim como uma volta bem executada no touge, cada projeto de dados é uma oportunidade de lapidar a precisão e diminuir o tempo de resposta."</i></p>
 </div>
 
 <br />
@@ -21,10 +21,10 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ### 🛠️ Stack & Tecnologias
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 ---
 
