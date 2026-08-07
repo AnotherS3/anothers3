@@ -49,6 +49,8 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ---
 
-<div align="left">
-  <sub><b>藤原とうふ店 (自家用)</b> • <i>"Entregando dados limpos e precisos antes das 4:00 AM."</i></sub>
-</div>
+```text
+       ______
+      /|_||_\`.__   Fujiwara Tofu Ten (自家用)
+     (   _    _ _\  "Entregando dados limpos e precisos antes das 4:00 AM."
+     =`-(_)--(_)-'
