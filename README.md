@@ -45,33 +45,15 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ---
 
-### 📊 Métricas do Motor (Telemetria Project D)
+### 📊 Métricas do Motor (GitHub Live Stats)
 
-<!-- Badges de Telemetria Geral -->
 <div align="center">
-  <img src="https://img.shields.io/github/followers/AnotherS3?label=Seguidores&style=for-the-badge&color=f2c811&labelColor=0d1117" alt="Seguidores" />
-  <img src="https://img.shields.io/github/directory-file-count/AnotherS3/-Ford_Enter-Projetos?label=Projetos%20Ativos&style=for-the-badge&color=f2c811&labelColor=0d1117" alt="Projetos" />
-  <img src="https://img.shields.io/badge/Status_do_Motor-11%2C000_RPM-brightgreen?style=for-the-badge&color=2ea44f&labelColor=0d1117" alt="Status Engine" />
-</div>
-
-<br />
-
-<!-- Principais Linguagens e Tecnologias (Super Estável e Bonito) -->
-<div align="center">
-  <p><b>🏎️ Principais Linguagens & Stack Ativa</b></p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-</div>
-
-<br />
-
-<!-- Card de Sequência (Streak Stats) -->
-<div align="center">
+  <!-- Card de Sequência e Contribuições (Live) -->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
-</div>
 
+  <!-- Card de Linguagens em Tempo Real (Live Analytics) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=AnotherS3&layout=compact&theme=dark&bg_color=0d1117&title_color=f2c811&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" alt="Top Languages Live" />
+</div>
 ---
 
 ### 🤝 Contato
