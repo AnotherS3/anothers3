@@ -1,6 +1,6 @@
 <div align="center">
-  <!-- GIF Takumi Fujiwara (Ajustado) -->
-  <img src="https://media.tenor.com/YK5LN4Dj3LUAAAAM/takumi-fujiwara-takumi.gif" width="100%" style="max-width: 500px; border-radius: 8px;" alt="Takumi Fujiwara - Initial D" />
+  <!-- GIF Takumi Fujiwara (Tamanho Pequeno e Centralizado) -->
+  <img src="https://media.tenor.com/YK5LN4Dj3LUAAAAM/takumi-fujiwara-takumi.gif" width="280" alt="Takumi Fujiwara - Initial D" />
 
   <h1>Olá, me chamo Lucas Domiciano 👋</h1>
 
