@@ -1,5 +1,5 @@
-<!-- Banner de Cabeçalho - Initial D Pixel Art (Sutil e Profissional) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1uZWpncWR5ZmtveWV6eGFxeHowbmtudWZ4Z2Focm5udHFhOWswMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3lZKEAsu2SgPM42VSf/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-bottom: 2px solid #333;" alt="Initial D Akina Touge Pixel Art" />
+<!-- Banner de Cabeçalho - Initial D Pixel Art -->
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyYzg1cHFnY3Z4ZWN3dHcyaGxka3d5OWp6ZXVrM3Fhb28xcXVtbjcxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/12va1PkLHzeLBK/200.gif" width="100%" height="180px" style="object-fit: cover; border-bottom: 2px solid #333;" alt="Initial D Pixel Art Banner" />
 
 # Olá, me chamo Lucas Domiciano 👋
 
