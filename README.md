@@ -47,7 +47,7 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ### 📊 Métricas do Motor (Telemetria Project D)
 
-<!-- Badges de Telemetria em Tempo Real -->
+<!-- Badges de Telemetria (Mantidas, funcionam sempre) -->
 <div align="center">
   <img src="https://img.shields.io/github/followers/AnotherS3?label=Seguidores&style=for-the-badge&color=f2c811&labelColor=0d1117" alt="Seguidores" />
   <img src="https://img.shields.io/github/directory-file-count/AnotherS3/-Ford_Enter-Projetos?label=Projetos%20Ativos&style=for-the-badge&color=f2c811&labelColor=0d1117" alt="Projetos" />
@@ -56,13 +56,16 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 <br />
 
-<!-- Cards Combinados: Sequência de Dias + Linguagens Otimizadas -->
+<!-- Painel de Performance Centralizado -->
 <div align="center">
-  <!-- Card de Sequência (Streak) -->
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
-  
-  <!-- Card de Linguagens Mais Usadas (Servidor Otimizado / Top Languages) -->
-  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=AnotherS3&layout=compact&theme=dark&bg_color=0d1117&title_color=f2c811&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" />
+  <!-- Card de Sequência (Estável) -->
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
+
+  <br />
+
+  <!-- ✅ SOLUÇÃO ESTÁVEL PARA TOP LANGUAGES ( Shields.io + Gist) -->
+  <!-- SUBSTITUA 'SEU_GIST_ID_AQUI' PELO ID QUE VOCÊ COPIOU NO PASSO 1 -->
+  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/AnotherS3/SEU_GIST_ID_AQUI/raw/languages.json" alt="Top Languages Estável" />
 </div>
 
 ---
