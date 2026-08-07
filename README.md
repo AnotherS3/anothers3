@@ -27,9 +27,3 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 - 💼 [LinkedIn](https://linkedin.com/in/lucasd-)
 - 📧 lucasdsales.silva@gmail.com
-
----
-
-<sub>Estatísticas do GitHub</sub>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=anothers3&layout=compact&langs_count=7&theme=default)
