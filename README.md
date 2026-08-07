@@ -45,17 +45,6 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ---
 
-### 📊 Métricas do Motor (GitHub Live Stats)
-
-<div align="center">
-  <!-- Card de Sequência e Contribuições (Live) -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
-
-  <!-- Card de Linguagens em Tempo Real (Live Analytics) -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-languages/?username=AnotherS3&layout=compact&theme=dark&bg_color=0d1117&title_color=f2c811&text_color=c9d1d9&border_color=30363d&cache_seconds=1800" alt="Top Languages Live" />
-</div>
----
-
 ### 🤝 Contato
 
 - 💼 **LinkedIn:** [linkedin.com/in/lucasd-](https://linkedin.com/in/lucasd-)
