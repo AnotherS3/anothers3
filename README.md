@@ -36,13 +36,6 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ---
 
-### 📌 Projetos em destaque
-
-- 🏎️ [`base_dados_alunos`](https://github.com/AnotherS3/base_dados_alunos) — Primeiros passos em manipulação, limpeza e organização de dados
-- 🏁 [`-Ford_Enter-Projetos`](https://github.com/AnotherS3/-Ford_Enter-Projetos) — Projetos desenvolvidos durante o Programa Ford Enter
-
----
-
 ### 🤝 Contato
 
 - 💼 **LinkedIn:** [linkedin.com/in/lucasd-](https://linkedin.com/in/lucasd-)
