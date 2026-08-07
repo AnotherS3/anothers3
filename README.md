@@ -1,3 +1,6 @@
+<!-- Banner de Cabeçalho - Initial D Pixel Art (Sutil e Profissional) -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW1uZWpncWR5ZmtveWV6eGFxeHowbmtudWZ4Z2Focm5udHFhOWswMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3lZKEAsu2SgPM42VSf/giphy.gif" width="100%" height="150px" style="object-fit: cover; border-bottom: 2px solid #333;" alt="Initial D Akina Touge Pixel Art" />
+
 # Olá, me chamo Lucas Domiciano 👋
 
 > *"Assim como uma volta bem executada no touge, cada projeto de dados é uma oportunidade de lapidar a precisão e diminuir o tempo de resposta."*
@@ -42,8 +45,6 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ---
 
-```text
-       ______
-      /|_||_\`.__   Fujiwara Tofu Ten (自家用)
-     (   _    _ _\  "Entregando dados limpos e precisos antes das 4:00 AM."
-     =`-(_)--(_)-'
+<div align="left">
+  <sub><b>藤原とうふ店 (自家用)</b> • <i>"Entregando dados limpos e precisos antes das 4:00 AM."</i></sub>
+</div>
