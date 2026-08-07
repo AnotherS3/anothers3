@@ -6,7 +6,7 @@
 
   <p><i>"Assim como uma volta bem executada no touge, cada projeto de dados é uma oportunidade de lapidar a precisão e diminuir o tempo de resposta."</i></p>
 
-  <!-- Animação de Texto Dinâmico (Sênior Feature) -->
+  <!-- Animação de Texto Dinâmico -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F2C811&center=true&vCenter=true&width=450&lines=Running+in+the+90s...;Driving+clean+data+at+11%2C000+RPM;Const%C3%A2ncia%2C+precis%C3%A3o+e+performance." alt="Typing SVG" />
 </div>
 
@@ -45,10 +45,24 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ---
 
-### 📊 Métricas do Motor (GitHub Live Stats)
+### 📊 Métricas do Motor (Telemetria Project D)
 
+<!-- Badges de Telemetria em Tempo Real -->
 <div align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
+  <img src="https://img.shields.io/github/followers/AnotherS3?label=Seguidores&style=for-the-badge&color=f2c811&labelColor=0d1117" alt="Seguidores" />
+  <img src="https://img.shields.io/github/directory-file-count/AnotherS3/-Ford_Enter-Projetos?label=Projetos%20Ativos&style=for-the-badge&color=f2c811&labelColor=0d1117" alt="Projetos" />
+  <img src="https://img.shields.io/badge/Status_do_Motor-11%2C000_RPM-brightgreen?style=for-the-badge&color=2ea44f&labelColor=0d1117" alt="Status Engine" />
+</div>
+
+<br />
+
+<!-- Cards Combinados: Sequência de Dias + Linguagens Otimizadas -->
+<div align="center">
+  <!-- Card de Sequência (Streak) -->
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
+  
+  <!-- Card de Linguagens Mais Usadas (Servidor Otimizado / Top Languages) -->
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-languages/?username=AnotherS3&layout=compact&theme=dark&bg_color=0d1117&title_color=f2c811&text_color=c9d1d9&border_color=30363d&hide_border=false" alt="Top Languages" />
 </div>
 
 ---
