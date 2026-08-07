@@ -47,7 +47,7 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 ### 📊 Métricas do Motor (Telemetria Project D)
 
-<!-- Badges de Telemetria (Mantidas, funcionam sempre) -->
+<!-- Badges de Telemetria Geral -->
 <div align="center">
   <img src="https://img.shields.io/github/followers/AnotherS3?label=Seguidores&style=for-the-badge&color=f2c811&labelColor=0d1117" alt="Seguidores" />
   <img src="https://img.shields.io/github/directory-file-count/AnotherS3/-Ford_Enter-Projetos?label=Projetos%20Ativos&style=for-the-badge&color=f2c811&labelColor=0d1117" alt="Projetos" />
@@ -56,16 +56,20 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 
 <br />
 
-<!-- Painel de Performance Centralizado -->
+<!-- Principais Linguagens e Tecnologias (Super Estável e Bonito) -->
 <div align="center">
-  <!-- Card de Sequência (Estável) -->
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
+  <p><b>🏎️ Principais Linguagens & Stack Ativa</b></p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+</div>
 
-  <br />
+<br />
 
-  <!-- ✅ SOLUÇÃO ESTÁVEL PARA TOP LANGUAGES ( Shields.io + Gist) -->
-  <!-- SUBSTITUA 'SEU_GIST_ID_AQUI' PELO ID QUE VOCÊ COPIOU NO PASSO 1 -->
-  <img src="https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/AnotherS3/SEU_GIST_ID_AQUI/raw/languages.json" alt="Top Languages Estável" />
+<!-- Card de Sequência (Streak Stats) -->
+<div align="center">
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
 </div>
 
 ---
