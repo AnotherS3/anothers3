@@ -48,8 +48,7 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 ### 📊 Métricas do Motor (GitHub Live Stats)
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AnotherS3&show_icons=true&theme=dark&rank_icon=github&bg_color=0d1117&title_color=f2c811&text_color=c9d1d9&border_color=30363d" alt="GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=AnotherS3&layout=compact&theme=dark&bg_color=0d1117&title_color=f2c811&text_color=c9d1d9&border_color=30363d" alt="Top Languages" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=AnotherS3&theme=dark&background=0d1117&border=30363d&stroke=f2c811&ring=f2c811&fire=f2c811&currStreakNum=ffffff&sideNums=ffffff&sideTitle=c9d1d9&dates=8b949e" alt="GitHub Streak Stats" />
 </div>
 
 ---
