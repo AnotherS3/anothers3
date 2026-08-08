@@ -20,12 +20,23 @@ Buscando oportunidades como **Jovem Aprendiz de TI**, **Assistente** ou posiçõ
 - **Programa Ford Enter** (Ford Brasil × SENAI-SP × Rede Cidadã) — Análise de Dados, Engenharia de Dados, Desenvolvimento de Software e certificação comportamental
 - **Generation Brasil** — Curso de Análise de Dados (*em andamento*)
 ---
+### 🔄 Aprendendo agora
+- Aprofundando em SQL avançado (queries complexas, otimização)
+- Praticando Power BI com datasets reais
+- Explorando fundamentos de Machine Learning
+---
 ### 🤝 Contato
 - 💼 **LinkedIn:** [linkedin.com/in/lucasd-](https://linkedin.com/in/lucasd-)
 - 📧 **E-mail:** [lucasdsales.silva@gmail.com](mailto:lucasdsales.silva@gmail.com)
+- 📄 **Currículo:** [Download](LINK_AQUI)
 ---
-``text
+```text
        ______
-      /|_||_\.__   Fujiwara Tofu Ten (自家用)
+      /|_||_\`.__   Fujiwara Tofu Ten (自家用)
      (   _    _ _\  "Entregando dados limpos e precisos antes das 4:00 AM."
      =`-(_)--(_)-'
+```
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=anothers3&label=Visitas&color=F2C811&style=flat" alt="Contador de visitas" />
+</div>
