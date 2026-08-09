@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="[https://media.tenor.com/YK5LN4Dj3LUAAAAM/takumi-fujiwara-takumi.gif](https://media.tenor.com/YK5LN4Dj3LUAAAAM/takumi-fujiwara-takumi.gif)" width="280" alt="Takumi Fujiwara - Initial D" />
+  <img src="https://media.tenor.com/YK5LN4Dj3LUAAAAC/takumi-fujiwara-takumi.gif" width="280" alt="Takumi Fujiwara - Initial D" />
   <h1>Olá, me chamo Lucas Domiciano 👋</h1>
   <p><i>"Assim como uma volta bem executada no touge, cada projeto de dados é uma oportunidade de lapidar a precisão e diminuir o tempo de resposta."</i></p>
-  <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F2C811&center=true&vCenter=true&width=450&lines=Running+in+the+90s...;Driving+clean+data+at+11%2C000+RPM;Const%C3%A2ncia%2C+precis%C3%A3o+e+performance](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F2C811&center=true&vCenter=true&width=450&lines=Running+in+the+90s...;Driving+clean+data+at+11%2C000+RPM;Const%C3%A2ncia%2C+precis%C3%A3o+e+performance)." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F2C811&center=true&vCenter=true&width=450&lines=Running+in+the+90s...;Driving+clean+data+at+11%2C000+RPM;Const%C3%A2ncia%2C+precis%C3%A3o+e+performance." alt="Typing SVG" />
 </div>
 
 <br />
